@@ -12,7 +12,7 @@ ShangJingFile
 
 * KOLA产品Demo
 
-* 上镜官方网站
+* [上镜官方网站](http://sjkola.com/)  
 
 * 需要更新的技术任务说明
   
@@ -34,7 +34,8 @@ ShangJingFile
 
 * Poly JS
 
-* Sketch
+* Sketch  
+
 
 ### KOLA产品UI
 
@@ -45,7 +46,24 @@ ShangJingFile
 
 ### KOLA产品Demo  
 
-文件名 ShangJingDemo  
+##### 文件名： ShangJingDemo  
+##### 性质：   静态HTML网页 原生JS  
+##### 文件夹：  
+ShangJingDemo/ShangJing/index.html ---数据中心（dashboard）  
+ShangJingDemo/ShangJing/login.html ---登录  
+ShangJingDemo/ShangJing/add-new-post.html ---我的内容  
+ShangJingDemo/ShangJing/components-blog-posts.html---我的粉丝  
+ShangJingDemo/ShangJing/form-components.html---我的活动  
+ShangJingDemo/ShangJing/tables.html---反馈环路  
+ShangJingDemo/ShangJing/user-profile-lite.html---我的账户  
+ShangJingDemo/ShangJing/images---图片文件夹  
+ShangJingDemo/ShangJing/scripts---js文件夹  
+
+
+
+
+
+
 
 ### 上镜官网
 
