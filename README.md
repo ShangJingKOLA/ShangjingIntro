@@ -4,7 +4,7 @@ ShangJingFile
 
 #### 上镜技术文档
 
-#### Contributor：Sarah Cai
+#### Contributor：[Sarah Cai](https://github.com/sarahcaiii)
 
 ###  目录  
 
@@ -78,6 +78,9 @@ ShangJingDemo/ShangJing/scripts---js文件夹
 ShangjingWeb/index.html---主页面  
 
 ```
+  
+##### 未实现功能：
+* “联系我们”表单实现提交信息后可以存入数据，目前仍为静态按钮
 
 
 
